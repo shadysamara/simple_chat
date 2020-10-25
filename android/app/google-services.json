@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180344833266",
+    "firebase_url": "https://chat-b3dee.firebaseio.com",
+    "project_id": "chat-b3dee",
+    "storage_bucket": "chat-b3dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180344833266:android:1733b2e089afa1c19afc6b",
+        "android_client_info": {
+          "package_name": "com.example.chat_online2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180344833266-q51ckmc631ff7n0d02rc3nt2s5bhhce2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzd1297F1W6fZdqcSDNm9UZoO5NwI-XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180344833266-q51ckmc631ff7n0d02rc3nt2s5bhhce2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
